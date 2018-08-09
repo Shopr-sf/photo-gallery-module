@@ -3,3 +3,7 @@ node_modules/
 bundle.js
 __snapshots__/
 .DS_Store
+products.csv
+product_images.csv
+images.csv
+*.csv
